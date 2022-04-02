@@ -14,7 +14,7 @@
 ```javascript
 const anmol = {
     code: ["NodeJS", "Javascript", "RPGLE", "HTML", "CSS", "JSON", "XML"],
-    AboutMe: ["Back end developer", "NodeJS developer","Tech lover"],
+    AboutMe: ["Back-end developer", "NodeJS developer","Tech lover"],
     technologies: {
         backEnd: {
             js: ["Node", "Express", "JWT","","itoolkit"],
