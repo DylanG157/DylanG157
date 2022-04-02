@@ -11,7 +11,7 @@
 <p>Email: dylangarder157@gmail.com </p>
 <p><a href="https://www.linkedin.com/in/dylan-gardner-developer/">Linkedln Profile</a></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://images.unsplash.com/photo-1599508704512-2f19efd1e35f?ixlib=rb1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80" width="50"> A little more about me...  
 ```javascript
 const anmol = {
     code: ["NodeJS", "Javascript", "RPGLE", "HTML", "CSS", "JSON", "XML"],
