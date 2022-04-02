@@ -8,5 +8,5 @@
   
  ### 📫 Like to meet me?
  
-<p>Email: dylangarder157@gmailcom </p>
-<p>Linkedln: <a> https://www.linkedin.com/in/dylan-gardner-developer/ </a> </p>
+<p>Email: dylangarder157@gmail.com </p>
+<p><a href="https://www.linkedin.com/in/dylan-gardner-developer/">Linkedln Profile</a></p>
