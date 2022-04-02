@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Dylan Gardner!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Dylan Gardner!  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47oyc9gkg6n5nvb8ptns6acy15klh3mvhunahbw0fe&rid=giphy.gif&ct=g" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Back End developer at <a href="https://www.1life.co.za/">Telesure - 1life </a></p>
   
