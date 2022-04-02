@@ -5,4 +5,8 @@
 <p><em>Back End developer at <a href="https://www.1life.co.za/">Telesure - 1life </a></p>
   
  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://profolio-dylan.firebaseapp.com/)](https://profolio-dylan.firebaseapp.com/)
-
+  
+ ### 📫 Like to meet me?
+ 
+<p>Email: dylangarder157@gmailcom </p>
+<p>Linkedln: <a> https://www.linkedin.com/in/dylan-gardner-developer/ </a> </p>
