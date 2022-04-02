@@ -10,3 +10,19 @@
  
 <p>Email: dylangarder157@gmail.com </p>
 <p><a href="https://www.linkedin.com/in/dylan-gardner-developer/">Linkedln Profile</a></p>
+
+```javascript
+const anmol = {
+    code: ["NodeJS", "Javascript", "RPGLE", "HTML", "CSS", "JSON", "XML"],
+    AboutMe: ["Back end developer", "NodeJS developer","Tech lover"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "JWT","","itoolkit"],
+        },
+        devOps: ["Azure", "Docker🐳"],
+        databases: ["mongo", "MySql", "DB2"],
+        misc: ["Rancher","Firebase", "Socket.IO"]
+    },
+    currentFocus: "Nodejs application intergrating with the IBMI to create API's",
+    funFact: "A different error message is a big win!"
+};
