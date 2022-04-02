@@ -28,6 +28,7 @@ const anmol = {
 };
 ```
 
-<img src="https://pbs.twimg.com/profile_images/502136610922586112/4oetBz_5_400x400.png" width="50"/>
+
+<img src="https://pbs.twimg.com/profile_images/502136610922586112/4oetBz_5_400x400.png" width="25"/>
 <a href="https://www.codingame.com/certification/rBY-g4YOmvGSyprJj6kyMQ"> Code in game java script test result</a>
 
